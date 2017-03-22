@@ -7,4 +7,4 @@ NullTime provides a time.Time that may be null.
 >
 > Portions Copyright (C) 2011 Blake Mizerany
 >
-> Modified by Kirill Danshin <k@geek.gq> (c) 2016
+> Modified by Kirill Danshin <k@guava.by> (c) 2016
